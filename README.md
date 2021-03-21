@@ -1,21 +1,11 @@
-### Hi there 👋
-
-<!--
-**Motzumoto/Motzumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Why hello there
 
 
+- 🔭 I’m currently working on: AGB (Private repo as of right now)
+- 🌱 I’m currently learning: Python and 
+- 📫 How to reach me: Contact me on discord: Motzumoto#9773(101118549958877184)
+- 😄 Pronouns: They/Them (But I really dont care, im a guy)
+- ⚡ Fun fact: My girlfriend and I have been dating for 1 year now
 
 
-https://github-readme-stats.vercel.app/api?username=motzumoto&show_icons=true&theme=synthwave&count_private=true
+![Motz's Github Stats](https://github-readme-stats.vercel.app/api?username=motzumoto&show_icons=true&theme=synthwave&count_private=true)

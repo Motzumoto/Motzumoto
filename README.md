@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: AGB (Private repo as of right now)
-- 🌱 I’m currently learning: Python and 
+- 🌱 I’m currently learning: Python and SQL
 - 📫 How to reach me: Contact me on discord: Motzumoto#9773(101118549958877184)
 - 😄 Pronouns: They/Them (But I really dont care, im a guy)
 - ⚡ Fun fact: My girlfriend and I have been dating for 1 year now

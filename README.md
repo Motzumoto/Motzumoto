@@ -9,7 +9,5 @@
 
 
 ![Motz's Github Stats](https://github-readme-stats.vercel.app/api?username=motzumoto&show_icons=true&theme=synthwave&count_private=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=motzumoto)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motzumoto)
+![Profile Views](https://komarev.com/ghpvc/?username=motzumoto)

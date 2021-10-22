@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Via Discord Motzumoto#9773 (101118549958877184)**
 
-- ⚡ Fun fact **My girlfriend and I have been together for about a year now!**
+- ⚡ Fun fact **My ex girlfriend lied to me for over a year about her age saying she was turning 18 when in reality she was 16 :DDD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

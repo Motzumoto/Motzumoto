@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AGB](https://top.gg/bot/723726581864071178)
 
-- 🌱 I’m currently learning **Python, JS, MySQL postgresql**
+- 🌱 I’m currently learning **Python, JS, MySQL, postgresql**
 
 - 🤝 I’m looking for help with [AGB](https://top.gg/bot/723726581864071178)
 

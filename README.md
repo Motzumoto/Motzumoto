@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Motzumoto</h1>
 <h3 align="center">A retard who hardly knows anything</h3>
 
+<div  align="center">
+    <h2>Discord Status<br><br>
+    <a href="https://discord.com/users/101118549958877184">
+    <img height="80px" src="https://discord.c99.nl/widget/theme-2/731220487035813989.png" />
+    </a><br>
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motzumoto&label=Profile%20views&color=ff0000&style=plastic" alt="motzumoto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motzumoto" alt="motzumoto" /></a> </p>

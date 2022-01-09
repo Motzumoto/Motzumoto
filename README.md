@@ -9,7 +9,7 @@
 </div>
 
     
-    ![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+    ![Profile views](https://gpvc.arturio.dev/[Motzumoto])
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motzumoto" alt="motzumoto" /></a> </p>

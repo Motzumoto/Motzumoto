@@ -8,11 +8,7 @@
     </a><br>
 </div>
 
-<div  align="center">
-    <h2>Discord Status<br><br>
-    <a href="https://gpvc.arturio.dev/Motzumoto">
-    </a><br>
-</div>
+![Profile views](https://gpvc.arturio.dev/Motzumoto)
 
 <div align=left>
 	<h1>Github Trophies 🏆</h1>

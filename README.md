@@ -6,11 +6,8 @@
     <a href="https://discord.com/users/101118549958877184">
     <img height="80px" src="https://discord.c99.nl/widget/theme-3/101118549958877184.png" />
     </a><br>
+    ![Profile views](https://gpvc.arturio.dev/Motzumoto)
 </div>
-
-    
-![Profile views](https://gpvc.arturio.dev/Motzumoto)
-
 
 <div align=left>
 	<h1>Github Trophies 🏆</h1>

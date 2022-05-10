@@ -6,7 +6,7 @@
     <a href="https://discord.com/users/101118549958877184">
     <img height="80px" src="https://discord.c99.nl/widget/theme-3/101118549958877184.png" />
     </a><br>
-    ![Profile views](https://gpvc.arturio.dev/Motzumoto)
+    	![Profile views](https://gpvc.arturio.dev/Motzumoto)
 </div>
 
 <div align=left>

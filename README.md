@@ -8,7 +8,7 @@
     </a><br>
 </div>
 
-	![Profile views](https://gpvc.arturio.dev/Motzumoto)
+![Profile views](https://gpvc.arturio.dev/Motzumoto)
 
 <div align=left>
 	<h1>Github Trophies 🏆</h1>

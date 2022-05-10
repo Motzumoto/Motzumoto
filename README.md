@@ -12,7 +12,7 @@
 ![Profile views](https://gpvc.arturio.dev/Motzumoto)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motzumoto" alt="motzumoto" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motzumoto&theme=discord" alt="motzumoto" /></a> </p>
 
 - 🔭 I’m currently working on [AGB](https://top.gg/bot/723726581864071178)
 

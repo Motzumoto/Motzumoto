@@ -8,6 +8,12 @@
     </a><br>
 </div>
 
+<div  align="center">
+    <h2>Discord Status<br><br>
+    <a href="https://gpvc.arturio.dev/Motzumoto">
+    </a><br>
+</div>
+
 <div align=left>
 	<h1>Github Trophies 🏆</h1>
 	<img src="https://github-profile-trophy.vercel.app/?username=motzumoto&theme=discord&no-frame=true">

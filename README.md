@@ -12,7 +12,7 @@
 ![Profile views](https://gpvc.arturio.dev/Motzumoto)
 
 
-<div align=center>
+<div align=left>
 	<h1>Github Trophies 🏆</h1>
 	<img src="https://github-profile-trophy.vercel.app/?username=motzumoto&theme=discord&no-frame=true">
 </div>

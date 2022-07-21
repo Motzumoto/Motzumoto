@@ -2,7 +2,6 @@
 <h3 align="center">A retard who hardly knows anything</h3>
 
 <div  align="center">
-    <h2>Discord Status<br><br>
     <a href="https://discord.com/users/101118549958877184">
     <img height="80px" src="https://discord.c99.nl/widget/theme-3/101118549958877184.png" />
     </a><br>

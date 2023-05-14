@@ -14,13 +14,13 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=motzumoto&theme=discord&no-frame=true">
 </div>
 
-- 🔭 I’m currently working on [AGB](https://top.gg/bot/723726581864071178)
+<!-- - 🔭 I’m currently working on [AGB](https://top.gg/bot/723726581864071178) -->
 
 - 🌱 I’m currently learning **Python, JS, MySQL, postgresql**
 
-- 🤝 I’m looking for help with [AGB](https://top.gg/bot/723726581864071178)
+<!-- - 🤝 I’m looking for help with [AGB](https://top.gg/bot/723726581864071178) -->
 
-- 💬 Ask me about **My bot, AGB**
+- 💬 Ask me about **My bot, Akiko**
 
 - 📫 How to reach me **Via Discord Motzumoto#9773 (101118549958877184)**
 
